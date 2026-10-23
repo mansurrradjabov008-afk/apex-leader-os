@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.tdiu.apexleaderos",
+        "sha256_cert_fingerprints": ["59:D7:EA:08:0A:86:D2:82:49:AF:7A:6A:F6:AF:E4:B9:DA:F8:37:70:88:F5:F1:11:9E:81:78:CB:D6:F6:37:5B"]
+      }
+    }]

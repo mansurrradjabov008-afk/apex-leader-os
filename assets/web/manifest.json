@@ -1,0 +1,46 @@
+{
+  "short_name": "Apex Leader",
+  "name": "APEX LEADER OS — Xalqaro Diplomatiya & Liderlik Tizimi",
+  "description": "Toshkent Davlat Iqtisodiyot Universiteti (TDIU / TSUE) Liderlik va HEMIS Akademik Boshqaruv Tizimi",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/favicon.png",
+      "type": "image/png",
+      "sizes": "64x64",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "id": "/",
+  "background_color": "#0B132B",
+  "theme_color": "#1a365d",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "categories": ["education", "productivity", "lifestyle"]
+}
